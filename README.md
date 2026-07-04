@@ -353,3 +353,5 @@
 * **Уровень риска:** Вероятность — **Средняя**, Влияние — **Высокое**.
 * **Стратегия реагирования:** Смягчить.
 * **Действия:** Выстроить регулярный процесс сбора обратной связи после каждого спринта (SDLC). Использовать A/B тестирование гипотез на ранних пользователях, чтобы определить, за какие именно "вау-фичи" они готовы платить, и своевременно адаптировать продукт.
+
+[AI Personal Finance Agent](https://github.com/MrDuckVC/management-of-it-projects-VKEdu) © 2026 by [Valentin Cunev](https://github.com/MrDuckVC) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
